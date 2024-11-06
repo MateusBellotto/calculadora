@@ -30,7 +30,7 @@ function calculate() {
             case '*':
                 result = firstOperand * secondOperand;
                 break;
-            case '/':
+            case '÷':
                 result = firstOperand / secondOperand;
                 break;
         }
